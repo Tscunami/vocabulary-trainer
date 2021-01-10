@@ -1,2 +1,2 @@
 # vocabulary-trainer
-Vocabulary trainer based on card sheet training
+Vocabulary trainer based on the card sheet training
