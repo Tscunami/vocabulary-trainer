@@ -13,7 +13,10 @@ the given word
     * If you knew the translation press the **green check**
     * Else press the **red cross**
     * A new word appears right after confirmation
-    
+  
+* There are currently **10 000** english words with 
+translated czech words
+
 ---
 
 ### GUI   
